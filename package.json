@@ -1,0 +1,19 @@
+{
+  "name": "style_go",
+  "version": "0.1.0",
+  "description": "gangwan",
+  "author": "留影",
+  "license": "ISC",
+  "repository": {
+    "type": "svn",
+    "url": "http://svn.alibaba-inc.com/repos/ali_china/style/style-go/branches/20141031_394957_2"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^0.12.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-browser-sync": "^1.5.3"
+  }
+}
